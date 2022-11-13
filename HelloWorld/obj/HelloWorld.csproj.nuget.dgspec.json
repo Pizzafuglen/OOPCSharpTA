@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Primal One\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Primal One\\AppData\\Roaming\\NuGet\\NuGet.Config"

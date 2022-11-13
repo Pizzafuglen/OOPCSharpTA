@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\CircleArea\\CircleArea.csproj",
+      "projectUniqueName": "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\CircleArea\\CircleArea.csproj",
       "projectName": "CircleArea",
-      "projectPath": "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\CircleArea\\CircleArea.csproj",
+      "projectPath": "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\CircleArea\\CircleArea.csproj",
       "packagesPath": "C:\\Users\\Primal One\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Primal One\\Desktop\\ConsoleApp1\\CircleArea\\obj\\",
+      "outputPath": "C:\\Users\\Primal One\\Desktop\\OOPCSharpTA\\CircleArea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Primal One\\AppData\\Roaming\\NuGet\\NuGet.Config"

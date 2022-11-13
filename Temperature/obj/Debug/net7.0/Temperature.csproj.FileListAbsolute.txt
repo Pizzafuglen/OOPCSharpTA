@@ -1,0 +1,15 @@
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.csproj.AssemblyReference.cache
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.AssemblyInfo.cs
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\bin\Debug\net7.0\Temperature.exe
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\bin\Debug\net7.0\Temperature.deps.json
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\bin\Debug\net7.0\Temperature.runtimeconfig.json
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\bin\Debug\net7.0\Temperature.dll
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\bin\Debug\net7.0\Temperature.pdb
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.dll
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\refint\Temperature.dll
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.pdb
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\Temperature.genruntimeconfig.cache
+C:\Users\Primal One\Desktop\OOPCSharpTA\Temperature\obj\Debug\net7.0\ref\Temperature.dll
