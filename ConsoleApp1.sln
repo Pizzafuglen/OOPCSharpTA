@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1C8D1A7A-AB6C-4068-BB4D-36A6C5B53B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{6DC48642-993F-4F6A-83A2-3A1BAE2C844D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\CircleArea.csproj", "{2F772F8D-D11C-409D-875F-38DDBABF0191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8D1A7A-AB6C-4068-BB4D-36A6C5B53B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8D1A7A-AB6C-4068-BB4D-36A6C5B53B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8D1A7A-AB6C-4068-BB4D-36A6C5B53B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8D1A7A-AB6C-4068-BB4D-36A6C5B53B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC48642-993F-4F6A-83A2-3A1BAE2C844D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC48642-993F-4F6A-83A2-3A1BAE2C844D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC48642-993F-4F6A-83A2-3A1BAE2C844D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC48642-993F-4F6A-83A2-3A1BAE2C844D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F772F8D-D11C-409D-875F-38DDBABF0191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F772F8D-D11C-409D-875F-38DDBABF0191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F772F8D-D11C-409D-875F-38DDBABF0191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F772F8D-D11C-409D-875F-38DDBABF0191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
