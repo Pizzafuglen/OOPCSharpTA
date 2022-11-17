@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\Ci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature", "Temperature\Temperature.csproj", "{18475422-EB8E-4559-84AC-6AFF00BBD63D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epoch", "Epoch\Epoch.csproj", "{3C4AB1CC-22BD-458C-86C0-982489E8E453}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{18475422-EB8E-4559-84AC-6AFF00BBD63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18475422-EB8E-4559-84AC-6AFF00BBD63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18475422-EB8E-4559-84AC-6AFF00BBD63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4AB1CC-22BD-458C-86C0-982489E8E453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4AB1CC-22BD-458C-86C0-982489E8E453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4AB1CC-22BD-458C-86C0-982489E8E453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4AB1CC-22BD-458C-86C0-982489E8E453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

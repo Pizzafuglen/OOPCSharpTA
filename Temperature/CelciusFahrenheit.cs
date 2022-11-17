@@ -2,12 +2,12 @@
 
 public class CelciusFahrenheit
 {
-    public static double ConvertCelcius(double temp)
+    public static double ConvertCelciusToFarh(double temp)
     {
         return 32 + temp * 9 / 5;
     }
 
-    public static double ConvertFahrenheit(double temp)
+    public static double ConvertFahrenheitToCel(double temp)
     {
         return (temp - 32) * 5 / 9;
     }
